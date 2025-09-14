@@ -3,9 +3,10 @@ import Video from "../Components/Home/Video";
 import Hometoptext from "../Components/Home/Hometoptext";
 import HomeBottomtext from "../Components/Home/HomeBottomtext";
 
+
 const Home = () => {
   return (
-    <div className="h-screen w-screen">
+    <div className="h-screen w-screen">      
       <div className="h-screen w-full fixed">
         <Video />
       </div>
